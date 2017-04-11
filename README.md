@@ -5,8 +5,6 @@ Tools and Technologies Used :
 
 Operating System : Ubuntu 16.04 xenial
 
-Server : Localhost
-
 FrontEnd : Bootstrap CDN
 
 Backend : Php 7.0.15
